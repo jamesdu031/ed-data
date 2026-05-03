@@ -2,18 +2,25 @@
    "markers" : [
       {
          "pin" : "white",
+         "text" : "14 Huemo AA-A h256\nIsegrim's View",
+         "x" : 2566,
+         "y" : -1997,
+         "z" : 26383
+      },
+      {
+         "pin" : "greencarrier",
+         "text" : "Empyrean Straits\nScience Carrier 'Distant Suns'\nSchee Prau AA-A H230\nDark Tides",
+         "x" : 5151,
+         "y" : -1280,
+         "z" : 25028
+      },
+      {
+         "pin" : "white",
          "text" : "13 Eorl Auwsy WB-V a114-1\nTeal Nebula",
          "x" : 4935,
          "y" : 178,
          "z" : 20646
       },
-	    {
-         "pin" : "bluecarrier",
-         "text" : "Arcadian Stream\nScience Carrier 'Fimbulthul'\nCloomaa EA-A e70",
-         "x" : 9674,
-         "y" : 73,
-         "z" : 24646
-		},
       {
          "pin" : "white",
          "text" : "12 Phrua Flyuae ZE-A e7\nSyrenthis Verge",
@@ -21,6 +28,13 @@
          "y" : -1072,
          "z" : 23311
       },
+	    {
+         "pin" : "whitecarrier",
+         "text" : "Arcadian Stream\nScience Carrier 'Fimbulthul'\nCloomaa EA-A e70",
+         "x" : 9674,
+         "y" : 73,
+         "z" : 24646
+		},
       {
          "pin" : "white",
          "text" : "11 Hypua Pruae ZR-H d11-59\nStarlit Dreamscape",
@@ -65,7 +79,7 @@
 		},
       {
          "pin" : "ocellus",
-         "text" : "8 Roefoo ZE-H d10-0\nRainbow's End @ Khazad-dÃ»m",
+         "text" : "8 Roefoo ZE-H d10-0\nRainbow's End @ Khazad-dûm",
          "x" : 21481,
          "y" : -1005,
          "z" : 43369
@@ -177,6 +191,15 @@
       }
    ],
    "lines" : [
+      {
+         "x1" : 4935,
+         "y1" : 178,
+         "z1" : 20646,
+         "x2" : 2566,
+         "y2" : -1997,
+         "z2" : 26383,
+         "color" : "#BBB"
+      },
       {
          "x1" : 11664,
          "y1" : -1072,
