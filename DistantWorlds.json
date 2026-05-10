@@ -1,6 +1,13 @@
 {
    "markers" : [
       {
+         "pin" : "purple",
+         "text" : "15 Sagittarius A*",
+         "x" : 25,
+         "y" : -21,
+         "z" : 25900
+      },
+      {
          "pin" : "white",
          "text" : "14 Huemo AA-A h256\nIsegrim's View",
          "x" : 2566,
@@ -198,15 +205,6 @@
       }
    ],
    "lines" : [
-      {
-         "x1" : 2566,
-         "y1" : -1997,
-         "z1" : 26383,
-         "x2" : 25,
-         "y2" : -21,
-         "z2" : 25900,
-         "color" : "#BBB"
-      },
       {
          "x1" : 4935,
          "y1" : 178,
