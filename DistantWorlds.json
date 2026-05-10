@@ -8,11 +8,11 @@
          "z" : 26383
       },
       {
-         "pin" : "greencarrier",
-         "text" : "Empyrean Straits\nScience Carrier 'Distant Suns'\nSchee Prau AA-A H230\nDark Tides",
-         "x" : 5151,
-         "y" : -1280,
-         "z" : 25028
+         "pin" : "bluecarrier",
+         "text" : "Rykers Hope\nScience Carrier 'Fimbulthul'\nChraisuae WP-X e1-1232\nStellar Trinity",
+         "x" : 2351,
+         "y" : -1549,
+         "z" : 31342
       },
       {
          "pin" : "white",
@@ -20,6 +20,13 @@
          "x" : 4935,
          "y" : 178,
          "z" : 20646
+      },
+      {
+         "pin" : "whitecarrier",
+         "text" : "Empyrean Straits\nScience Carrier 'Distant Suns'\nSchee Prau AA-A H230\nDark Tides",
+         "x" : 5151,
+         "y" : -1280,
+         "z" : 25028
       },
       {
          "pin" : "white",
@@ -191,6 +198,15 @@
       }
    ],
    "lines" : [
+      {
+         "x1" : 2566,
+         "y1" : -1997,
+         "z1" : 26383,
+         "x2" : 25,
+         "y2" : -21,
+         "z2" : 25900,
+         "color" : "#BBB"
+      },
       {
          "x1" : 4935,
          "y1" : 178,
