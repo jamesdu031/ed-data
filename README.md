@@ -45,9 +45,7 @@ EDAstro supporte le chargement de marqueurs personnalisés via un fichier JSON h
 
 **Lien direct vers la carte :**
 
-```
 https://edastro.com/galmap/?custom=https://raw.githubusercontent.com/jamesdu031/ed-data/main/DistantWorlds.json
-```
 
 Il suffit d'ouvrir ce lien dans votre navigateur pour visualiser le trajet sur la carte galactique 🗺️
 
