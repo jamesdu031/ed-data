@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 ed-data — Trajet EDAstro · Distant Worlds
+# 🌌 ed-data — Trajet EDAstro · Distant Worlds 3
 
 [![Elite Dangerous](https://img.shields.io/badge/Elite%20Dangerous-Distant%20Worlds-orange?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGNjYwMCIgZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==)](https://github.com/jamesdu031/ed-data)
 [![EDAstro](https://img.shields.io/badge/EDAstro-Visualisation-blue?style=flat-square)](https://edastro.com)
