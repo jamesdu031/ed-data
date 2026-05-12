@@ -1,17 +1,5 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   ██████╗ ██╗███████╗████████╗ █████╗ ███╗   ██╗████████╗  ║
-║   ██╔══██╗██║██╔════╝╚══██╔══╝██╔══██╗████╗  ██║╚══██╔══╝  ║
-║   ██║  ██║██║███████╗   ██║   ███████║██╔██╗ ██║   ██║     ║
-║   ██║  ██║██║╚════██║   ██║   ██╔══██║██║╚██╗██║   ██║     ║
-║   ██████╔╝██║███████║   ██║   ██║  ██║██║ ╚████║   ██║     ║
-║   ╚═════╝ ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝     ║
-║                    W O R L D S                            ║
-╚══════════════════════════════════════════════════════════╝
-```
-
 # 🌌 ed-data — Trajet EDAstro · Distant Worlds
 
 [![Elite Dangerous](https://img.shields.io/badge/Elite%20Dangerous-Distant%20Worlds-orange?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGNjYwMCIgZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==)](https://github.com/jamesdu031/ed-data)
