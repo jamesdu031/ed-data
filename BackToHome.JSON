@@ -15,15 +15,8 @@
 		"z" : 10365
 	},
 	{
-		"pin" : "carrier",
-		"text" : "The Black Donnelly",
-		"x" : -5131,
-		"y" : -275,
-		"z" : 10365
-	},
-	{
 		"pin" : "purple",
-		"text" : "Destination Finale",
+		"text" : "Destination Finale / Bulle Humaine",
 		"x" : -178,
 		"y" : 77,
 		"z" : -87
@@ -37,77 +30,77 @@
 	},
 	{
 		"pin" : "purple",
-		"text" : "Elephant’s Trunk Nebula",
+		"text" : "Elephant’s Trunk Nebula / GM Cephei",
 		"x" : -2660,
 		"y" : 180,
 		"z" : -433
 	},
 	{
 		"pin" : "purple",
-		"text" : "Via Gravitatis",
+		"text" : "Via Gravitatis / KOI 1701",
 		"x" : -5931,
 		"y" : 887,
 		"z" : 1361
 	},
 	{
 		"pin" : "purple",
-		"text" : "<a href='https://edastro.com/gec/view/257'>The Chained Beast</a>",
+		"text" : "<a href='https://edastro.com/gec/view/257'>The Chained Beast</a> / HD 191612",
 		"x" : -6375,
 		"y" : 138,
 		"z" : 1909
 	},
 	{
 		"pin" : "purple",
-		"text" : "Monde de la un peu moins mort",
+		"text" : "Monde de la un peu moins mort / Blaa Eohn YZ-G d10-0",
 		"x" : -5593,
 		"y" : -1088,
 		"z" : 2424
 	},
 	{
 		"pin" : "purple",
-		"text" : "<a href='https://edastro.com/gec/view/362'>Rolling Pearls</a>",
+		"text" : "<a href='https://edastro.com/gec/view/362'>Rolling Pearls</a> / Bleia Dryiae HO-F a38-1",
 		"x" : -1109,
 		"y" : -28,
 		"z" : 4463
 	},
 	{
 		"pin" : "purple",
-		"text" : "Trifid Nebula",
+		"text" : "Trifid Nebula / Trifid Sector DH-K a9-6",
 		"x" : -637,
 		"y" : -26,
 		"z" : 5161
 	},
 	{
 		"pin" : "purple",
-		"text" : "Eagle's Landing",
+		"text" : "Eagle's Landing / Eagle Sector IR-W d1-117",
 		"x" : -2054,
 		"y" : -85,
 		"z" : 6710
 	},
 	{
 		"pin" : "purple",
-		"text" : "Sacaqawea Space Port",
+		"text" : "Sacaqawea Space Port / Skaudai CH-B d14-34",
 		"x" : -5481,
 		"y" : -579,
 		"z" : 10429
 	},
 	{
 		"pin" : "purple",
-		"text" : "Gagarin Gate / Vostok-1 Nebula",
+		"text" : "Gagarin Gate / Gru Hypue KS-T d3-31",
 		"x" : -4990,
 		"y" : -935,
 		"z" : 13387
 	},
 	{
 		"pin" : "purple",
-		"text" : "Polo Harbour / The Grand Formation / The Venetian Nebula",
+		"text" : "Polo Harbour / Boewnst KS-S c20-959",
 		"x" : -6195,
 		"y" : -140,
 		"z" : 16462
 	},
 	{
 		"pin" : "purple",
-		"text" : "<a href='https://edastro.com/gec/view/200'>Odin's Monocle</a>",
+		"text" : "<a href='https://edastro.com/gec/view/200'>Odin's Monocle</a> / Dryoea Flyuae EB-X e1-877",
 		"x" : -7386,
 		"y" : -744,
 		"z" : 18602
@@ -128,49 +121,49 @@
 	},
 	{
 		"pin" : "purple",
-		"text" : "<a href='https://edastro.com/gec/view/215'>Glow Bug Giant</a>",
+		"text" : "<a href='https://edastro.com/gec/view/215'>Glow Bug Giant</a> / Eol Prou KW-L c8-32",
 		"x" : -9581,
 		"y" : -932,
 		"z" : 19788
 	},
 	{
 		"pin" : "purple",
-		"text" : "<a href='https://edastro.com/gec/view/567'>Ringed Paradise</a>",
+		"text" : "<a href='https://edastro.com/gec/view/567'>Ringed Paradise</a> / Throets AA-A h500",
 		"x" : -8085,
 		"y" : 1980,
 		"z" : 20668
 	},
 	{
 		"pin" : "purple",
-		"text" : "The Great Escape",
+		"text" : "The Great Escape / Trieneou AA-A h2",
 		"x" : -7958,
 		"y" : -3393,
 		"z" : 21491
 	},
 	{
 		"pin" : "purple",
-		"text" : "<a href='https://edastro.com/gec/view/297'>Golden Cradle</a>",
+		"text" : "<a href='https://edastro.com/gec/view/297'>Golden Cradle</a> /  Drumbaae AA-A h378",
 		"x" : -8916,
 		"y" : 1961,
 		"z" : 22060
 	},
 	{
 		"pin" : "purple",
-		"text" : "Mariana",
+		"text" : "Mariana / Syrumbi YE-A g4",
 		"x" : -8461,
 		"y" : -3216,
 		"z" : 22382
 	},
 	{
 		"pin" : "purple",
-		"text" : "<a href='https://edastro.com/gec/view/99'>Au Nain Rouge</a>",
+		"text" : "<a href='https://edastro.com/gec/view/99'>Au Nain Rouge</a> / Aunaihn AA-A h268",
 		"x" : -6390,
 		"y" : 1290,
 		"z" : 21922
 	},
 	{
 		"pin" : "purple",
-		"text" : "Point le plus haut de la galaxie en vaisseau",
+		"text" : "Point le plus haut de la galaxie en vaisseau / Systeia Aub BA-A g12",
 		"x" : -4340,
 		"y" : 3173,
 		"z" : 24731
