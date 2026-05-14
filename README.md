@@ -41,7 +41,9 @@
 
 ## 🚀 Utilisation
 
-EDAstro supporte le chargement de marqueurs personnalisés via un fichier JSON hébergé publiquement — `raw.githubusercontent.com` fonctionne parfaitement.
+EDAstro offre la possibilité d'ajouter des marqueurs personnalisés via un fichier JSON hébergé publiquement — `raw.githubusercontent.com` fonctionne parfaitement.
+
+Il est donc possible d'utiliser le lien `https://edastro.com/galmap/?custom=URL` afin de créer un trajet personnalisé tout en ayant les différents POIs mis à disposition d'EDAstro.
 
 **Lien direct vers la carte :**
 
