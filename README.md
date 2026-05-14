@@ -5,7 +5,7 @@
 [![Elite Dangerous](https://img.shields.io/badge/Elite%20Dangerous-Distant%20Worlds-orange?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGNjYwMCIgZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==)](https://github.com/jamesdu031/ed-data)
 [![EDAstro](https://img.shields.io/badge/EDAstro-Visualisation-blue?style=flat-square)](https://edastro.com)
 [![Fork](https://img.shields.io/badge/Fork-justbearli%2Fed--data-grey?style=flat-square&logo=github)](https://github.com/justbearli/ed-data)
-[![Status](https://img.shields.io/badge/Statut-En%20cours%20·%20POIs%20à%20venir-yellow?style=flat-square)](https://github.com/jamesdu031/ed-data)
+[![Status](https://img.shields.io/badge/Statut-En%20cours%20·%20Tracer%20de%20la%20carte%20à%20finir-yellow?style=flat-square)](https://github.com/jamesdu031/ed-data)
 
 ---
 
