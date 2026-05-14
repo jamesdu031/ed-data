@@ -1,0 +1,29 @@
+{
+   "markers" : [
+      {
+         "pin" : "blue",
+         "text" : "Sagittarius A*",
+         "x" : 25,
+         "y" : -20,
+         "z" : 25900
+      },
+      {
+	"pin" : "white",
+	"text" : "Point le plus haut de la galaxie en vaisseau",
+	"x" : 4340,
+	"y" : 3173,
+	"z" : 24731
+      }
+   ],
+   "lines" : [
+      {
+         "x1" : 4340,
+         "y1" : 3173,
+         "z1" : 24731,
+         "x2" : 25,
+         "y2" : -20,
+         "z2" : 25900,
+         "color" : "#F00"
+      }
+   ]
+}
