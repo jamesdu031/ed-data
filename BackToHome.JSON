@@ -8,28 +8,28 @@
 		"z" : 19820
 	},
 	{
-		"pin" : "white",
+		"pin" : "default",
 		"text" : "<a href='https://edastro.com/gec/view/215'>Glow Bug Giant</a>",
 		"x" : -9581,
 		"y" : -932,
 		"z" : 19788
 	},
 	{
-		"pin" : "white",
+		"pin" : "default",
 		"text" : "<a href='https://edastro.com/gec/view/567'>Ringed Paradise</a>",
 		"x" : -8085,
 		"y" : 1980,
 		"z" : 20668
 	},
 	{
-		"pin" : "white",
+		"pin" : "default",
 		"text" : "The Great Escape",
 		"x" : -7958,
 		"y" : -3393,
 		"z" : 21491
 	},
 	{
-		"pin" : "white",
+		"pin" : "default",
 		"text" : "<a href='https://edastro.com/gec/view/297'>Golden Cradle</a>",
 		"x" : -8916,
 		"y" : 1961,
@@ -43,21 +43,21 @@
 		"z" : 22382
 	},
 	{
-		"pin" : "white",
+		"pin" : "default",
 		"text" : "Mariana",
 		"x" : -8461,
 		"y" : -3216,
 		"z" : 22382
 	},
 	{
-		"pin" : "white",
+		"pin" : "default",
 		"text" : "<a href='https://edastro.com/gec/view/99'>Au Nain Rouge</a>",
 		"x" : -6390,
 		"y" : 1290,
 		"z" : 21922
 	},
 	{
-		"pin" : "white",
+		"pin" : "default",
 		"text" : "Point le plus haut de la galaxie en vaisseau",
 		"x" : -4340,
 		"y" : 3173,
