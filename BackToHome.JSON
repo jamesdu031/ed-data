@@ -1,6 +1,104 @@
 {
 "markers" :[
 	{
+		"pin" : "default",
+		"text" : "Destination Finale",
+		"x" : -178,
+		"y" : 77,
+		"z" : -87
+	},
+	{
+		"pin" : "default",
+		"text" : "Maia",
+		"x" : -81,
+		"y" : -149,
+		"z" : -343
+	},
+	{
+		"pin" : "default",
+		"text" : "Elephant’s Trunk Nebula",
+		"x" : -2660,
+		"y" : 180,
+		"z" : -433
+	},
+	{
+		"pin" : "default",
+		"text" : "Via Gravitatis",
+		"x" : -5931,
+		"y" : 887,
+		"z" : 1361
+	},
+	{
+		"pin" : "default",
+		"text" : "<a href='https://edastro.com/gec/view/257'>The Chained Beast</a>",
+		"x" : -6375,
+		"y" : 138,
+		"z" : 1909
+	},
+	{
+		"pin" : "default",
+		"text" : "Monde de la un peu moins mort",
+		"x" : -5593,
+		"y" : -1088,
+		"z" : 2424
+	},
+	{
+		"pin" : "default",
+		"text" : "<a href='https://edastro.com/gec/view/362'>Rolling Pearls</a>",
+		"x" : -1109,
+		"y" : -28,
+		"z" : 4463
+	},
+	{
+		"pin" : "default",
+		"text" : "Trifid Nebula",
+		"x" : -637,
+		"y" : -26,
+		"z" : 5161
+	},
+	{
+		"pin" : "default",
+		"text" : "Eagle's Landing",
+		"x" : -2054,
+		"y" : -85,
+		"z" : 6710
+	},
+	{
+		"pin" : "default",
+		"text" : "Sacaqawea Space Port",
+		"x" : -5481,
+		"y" : -579,
+		"z" : 10429
+	},
+	{
+		"pin" : "default",
+		"text" : "Gagarin Gate / Vostok-1 Nebula",
+		"x" : -4990,
+		"y" : -935,
+		"z" : 13387
+	},
+	{
+		"pin" : "default",
+		"text" : "Polo Harbour / The Grand Formation / The Venetian Nebula",
+		"x" : -6195,
+		"y" : -140,
+		"z" : 16462
+	},
+	{
+		"pin" : "default",
+		"text" : "<a href='https://edastro.com/gec/view/200'>Odin's Monocle</a>",
+		"x" : -7386,
+		"y" : -744,
+		"z" : 18602
+	},
+	{
+		"pin" : "default",
+		"text" : "Dryio Flyuae AA-A h417 ",
+		"x" : -7957,
+		"y" : -1296,
+		"z" : 18303
+	},
+	{
 		"pin" : "carrier",
 		"text" : "Flowing Filament (T1L-3VK)",
 		"x" : -9509,
@@ -34,13 +132,6 @@
 		"x" : -8916,
 		"y" : 1961,
 		"z" : 22060
-	},
-		{
-		"pin" : "carrier",
-		"text" : "Mariana",
-		"x" : -8461,
-		"y" : -3216,
-		"z" : 22382
 	},
 	{
 		"pin" : "default",
