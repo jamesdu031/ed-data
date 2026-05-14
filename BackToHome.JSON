@@ -1,8 +1,8 @@
 {
-   "markers" : [
+"markers" :[
 	{
 		"pin" : "white",
-		"text" : "Au Nain Rouge",
+		"text" : "<a href='https://edastro.com/gec/view/99'>Au Nain Rouge</a>",
 		"x" : -6390,
 		"y" : 1290,
 		"z" : 21922
@@ -15,14 +15,14 @@
 		"z" : 24731
 	},
 	{
-       	 "pin" : "blue",
-         "text" : "Sagittarius A*",
-         "x" : 25,
-         "y" : -20,
-         "z" : 25900
+		"pin" : "blue",
+		"text" : "Sagittarius A*",
+		"x" : 25,
+		"y" : -20,
+		"z" : 25900
 	}
-   ],
-   "lines" : [
+],
+"lines" : [
 	{
 		"x1" : -4340,
 		"y1" : 3173,
@@ -32,14 +32,14 @@
 		"z2" : 21922,
 		"color" : "#BBB"
 	},
-      {
-         "x1" : -4340,
-         "y1" : 3173,
-         "z1" : 24731,
-         "x2" : 25,
-         "y2" : -20,
-         "z2" : 25900,
-         "color" : "#BBB"
-      }
-   ]
+	{
+		"x1" : -4340,
+		"y1" : 3173,
+		"z1" : 24731,
+		"x2" : 25,
+		"y2" : -20,
+		"z2" : 25900,
+		"color" : "#BBB"
+	}
+]
 }
