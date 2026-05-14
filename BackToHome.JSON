@@ -1,6 +1,27 @@
 {
 "markers" :[
 	{
+		"pin" : "carrier",
+		"text" : "BASE SHAMBALOID",
+		"x" : -664,
+		"y" : -32,
+		"z" : 5226
+	},
+	{
+		"pin" : "carrier",
+		"text" : "The Black Donnelly",
+		"x" : -5131,
+		"y" : -275,
+		"z" : 10365
+	},
+	{
+		"pin" : "carrier",
+		"text" : "The Black Donnelly",
+		"x" : -5131,
+		"y" : -275,
+		"z" : 10365
+	},
+	{
 		"pin" : "default",
 		"text" : "Destination Finale",
 		"x" : -178,
