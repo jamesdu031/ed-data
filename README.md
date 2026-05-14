@@ -32,10 +32,8 @@
 ## 🔭 Roadmap
 
 - [x] Export du trajet brut Distant Worlds
-- [x] Visualisation sur EDAstro
-- [ ] Ajout de POIs personnels
-- [ ] Retour progressif vers la bulle humaine
-- [ ] Annotation des systèmes remarquables
+- [x] Ajout de POIs personnels
+- [ ] Visualisation sur EDAstro
 
 ---
 
