@@ -45,11 +45,15 @@ EDAstro offre la possibilité d'ajouter des marqueurs personnalisés via un fich
 
 Il est donc possible d'utiliser le lien `https://edastro.com/galmap/?custom=URL` afin de créer un trajet personnalisé tout en ayant les différents POIs mis à disposition d'EDAstro.
 
-**Lien direct vers la carte :**
+**Lien direct vers la carte pour mon trajet retour:**
 
-https://edastro.com/galmap/?custom=https://raw.githubusercontent.com/jamesdu031/ed-data/main/DistantWorlds.json
+https://edastro.com/galmap/?custom=https://raw.githubusercontent.com/jamesdu031/ed-data/refs/heads/main/BackToHome.JSON
 
-Il suffit d'ouvrir ce lien dans votre navigateur pour visualiser le trajet sur la carte galactique 🗺️
+**Lien pour visualiser le trajet de Distant Worlds 3 ainsi que mon trajet retour:**
+
+https://edastro.com/galmap/?custom=https://raw.githubusercontent.com/jamesdu031/ed-data/refs/heads/main/DistantWorlds.json;https://raw.githubusercontent.com/jamesdu031/ed-data/refs/heads/main/BackToHome.JSON
+
+Il suffit d'ouvrir ces liens dans votre navigateur pour visualiser le trajet sur la carte galactique 🗺️
 
 ---
 
