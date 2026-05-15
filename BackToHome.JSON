@@ -1,6 +1,13 @@
 {
 "markers" :[
 	{
+		"pin" : "purple",
+		"text" : "<a href='https://edastro.com/gec/view/356'>Behemoth In The Pink</a> / Graea Hypue AL-X d1-48",
+		"x" : -1125,
+		"y" : -848,
+		"z" : 13188
+	},
+	{
 		"pin" : "carrier",
 		"text" : "BASE SHAMBALOID",
 		"x" : -664,
