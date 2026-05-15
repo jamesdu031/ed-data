@@ -1,13 +1,6 @@
 {
 "markers" :[
 	{
-		"pin" : "purple",
-		"text" : "<a href='https://edastro.com/gec/view/356'>Behemoth In The Pink</a> / Graea Hypue AL-X d1-48",
-		"x" : -1125,
-		"y" : -848,
-		"z" : 13188
-	},
-	{
 		"pin" : "carrier",
 		"text" : "BASE SHAMBALOID",
 		"x" : -664,
@@ -71,28 +64,28 @@
 		"z" : 4463
 	},
 	{
-		"pin" : "purple",
+		"pin" : "outpost",
 		"text" : "Trifid Nebula / Trifid Sector DH-K a9-6",
 		"x" : -637,
 		"y" : -26,
 		"z" : 5161
 	},
 	{
-		"pin" : "purple",
+		"pin" : "outpost",
 		"text" : "Eagle's Landing / Eagle Sector IR-W d1-117",
 		"x" : -2054,
 		"y" : -85,
 		"z" : 6710
 	},
 	{
-		"pin" : "purple",
+		"pin" : "outpost",
 		"text" : "Sacaqawea Space Port / Skaudai CH-B d14-34",
 		"x" : -5481,
 		"y" : -579,
 		"z" : 10429
 	},
 	{
-		"pin" : "purple",
+		"pin" : "outpost",
 		"text" : "Gagarin Gate / Gru Hypue KS-T d3-31",
 		"x" : -4990,
 		"y" : -935,
@@ -100,6 +93,20 @@
 	},
 	{
 		"pin" : "purple",
+		"text" : "<a href='https://edastro.com/gec/view/21'>Guardian Ruins - IC 4673 nebula</a> / HEN 2-333",
+		"x" : -840,
+		"y" : -561,
+		"z" : 13361
+	},
+	{
+		"pin" : "purple",
+		"text" : "<a href='https://edastro.com/gec/view/356'>Behemoth In The Pink</a> / Graea Hypue AL-X d1-48",
+		"x" : -1125,
+		"y" : -848,
+		"z" : 13188
+	},
+	{
+		"pin" : "outpost",
 		"text" : "Polo Harbour / Boewnst KS-S c20-959",
 		"x" : -6195,
 		"y" : -140,
@@ -269,15 +276,15 @@
 		"x1" : -5481,
 		"y1" : -579,
 		"z1" : 10429,
-		"x2" : -4990,
-		"y2" : -935,
-		"z2" : 13387,
+		"x2" : -840,
+		"y2" : -561,
+		"z2" : 13361,
 		"color" : "#F00"
 	},
 	{
-		"x1" : -4990,
-		"y1" : -935,
-		"z1" : 13387 ,
+		"x1" : -840,
+		"y1" : -561,
+		"z1" : 13361 ,
 		"x2" : -6195,
 		"y2" : -140,
 		"z2" : 16462,
