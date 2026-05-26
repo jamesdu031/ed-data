@@ -1,6 +1,13 @@
 {
    "markers" : [
       {
+         "pin" : "green",
+         "text" : "Earth 2.0\nSpasau EH-Z c2-0 1\nReporter: Majkl; discoverer: Qildail",
+         "x" : 27379,
+         "y" : -345,
+         "z" : 32388
+      },
+      {
          "pin" : "purple",
          "text" : "15 Sagittarius A*",
          "x" : 25,
@@ -15,7 +22,7 @@
          "z" : 26383
       },
       {
-         "pin" : "bluecarrier",
+         "pin" : "whitecarrier",
          "text" : "Rykers Hope\nScience Carrier 'Fimbulthul'\nChraisuae WP-X e1-1232\nStellar Trinity",
          "x" : 2351,
          "y" : -1549,
